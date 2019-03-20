@@ -4,7 +4,8 @@
   "dependencies": {
     "apollo-datasource-rest": "latest",
     "apollo-server": "2.1.0",
-    "graphql": "14.0.2"
+    "graphql": "14.0.2",
+    "now": "14.2.0"
   },
   "license": "MIT",
   "main": "index.js",
