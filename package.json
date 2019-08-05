@@ -5,7 +5,7 @@
     "apollo-datasource-rest": "latest",
     "apollo-server": "2.4.8",
     "graphql": "14.2.1",
-    "now": "14.2.3"
+    "now": "16.0.0"
   },
   "license": "MIT",
   "main": "index.js",
